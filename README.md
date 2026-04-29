@@ -32,10 +32,6 @@ Web-based HMS with patient records, doctor management, appointment scheduling, a
 
 ---
 
-### 🖥️ [Linux System Monitor Script](https://github.com/Sivaphaninaidu/linux-system-monitor)
-> Shell Scripting • Linux
-
-Bash script that monitors CPU, memory, and disk usage with automated alerts for low disk space.
 
 ---
 
