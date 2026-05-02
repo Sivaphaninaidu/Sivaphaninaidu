@@ -36,8 +36,9 @@ Web-based HMS with patient records, doctor management, appointment scheduling, a
 ---
 
 ## 📜 Certifications
-- 🏅 **Salesforce Certified — Agentforce Specialist** (Dec 2025)
-- 🎓 **Foundations of Machine Learning** — IIIT Hyderabad (iHub-Data)
+- 🏅 **IBM – Artificial Intelligence Fundamentals** (IBM SkillsBuild | May 2026)
+- 🎓 **IBM – Cloud Computing Fundamentals** — (IBM SkillsBuild | May 2026
+)
 
 ---
 
